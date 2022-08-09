@@ -9,20 +9,12 @@ var contact={
     companyname:"bosco",
     phonenumber:+254757497424,
     location:"Meru",
-    bookingdates:"calendar",
+    bookingdates:{
+        calendar:"may 16th"
+    }
 
 }
 console.log(contact)
-
-
-
-
-
-
-
-
-
-
 
 
 var myObject = {
