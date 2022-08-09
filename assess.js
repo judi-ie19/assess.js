@@ -5,16 +5,7 @@
 // Booking dates -- i should choose date from a calendar 
 // 1) Display this information with the filled in details. I.e grab the user input then 
 
-var contact={
-    companyname:"bosco",
-    phonenumber:+254757497424,
-    location:"Meru",
-    bookingdates:{
-        calendar:"may 16th"
-    }
 
-}
-console.log(contact)
 
 
 var myObject = {
